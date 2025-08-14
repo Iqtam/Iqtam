@@ -17,10 +17,16 @@
 ![LLM](https://img.shields.io/badge/LLM-AI%20Language%20Model-8B008B?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=Iqtam&color=blue)
 ---
+<div align="center">
 
-![Iqtam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iqtam&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqtam&layout=compact&theme=nightowl)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Iqtam&theme=nightowl)](https://git.io/streak-stats)
+  <!-- Column-wise stats section -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Iqtam&show_icons=true&theme=nightowl" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqtam&layout=compact&theme=nightowl" height="180" />
+    <img src="https://streak-stats.demolab.com?user=Iqtam&theme=nightowl" height="180" />
+  </div>
+
+</div>
 
 ---
 
