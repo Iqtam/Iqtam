@@ -40,13 +40,13 @@
 
 ### 🧑‍💻 Skills & Tech
 
-**Languages:** C, C++, C#, Python, Java, JavaScript  
-**Databases:** MongoDB, PostgreSQL, MySQL, Oracle, Supabase, Pinecone  
-**Frontend:** HTML, CSS, React, Bootstrap, Tailwind, MUI, Svelte  
-**Backend:** Node.js, Express.js, FastAPI, RESTful API  
-**DevOps:** Git, GitHub Actions, Jenkins, Docker, Kubernetes  
-**Machine Learning:** LLM, RAG, Prompt Engineering, Agentic AI, PyTorch, Tensorflow, Federated Learning  
-**AI Tools:** Cursor, Copilot, V0, MarmaidAI, Ollama, Huggingface, ChatGPT, Deepseek  
+- **Languages:** C, C++, C#, Python, Java, JavaScript  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Oracle, Supabase, Pinecone  
+- **Frontend:** HTML, CSS, React, Bootstrap, Tailwind, MUI, Svelte  
+- **Backend:** Node.js, Express.js, FastAPI, RESTful API  
+- **DevOps:** Git, GitHub Actions, Jenkins, Docker, Kubernetes  
+- **Machine Learning:** LLM, RAG, Prompt Engineering, Agentic AI, PyTorch, Tensorflow, Federated Learning  
+- **AI Tools:** Cursor, Copilot, V0, MarmaidAI, Ollama, Huggingface, ChatGPT, Deepseek  
 
 ---
 
