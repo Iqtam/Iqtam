@@ -32,7 +32,7 @@
 
 ### 🚀 About Me
 
-- **Final-Year CSE Student** at BUET
+- **CSE Graduate** From BUET
 - **Backend Developer Intern** at Sociofi Technology
 - Passionate about AI, Federated Learning, Quantum Neural Networks, and building explainable & secure AI
 
